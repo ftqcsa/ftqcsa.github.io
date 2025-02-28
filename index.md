@@ -5,7 +5,7 @@ layout: page
 
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
 
-<!- {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %} ->
+{% comment {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %} }
 
 ## About FTQCSA
 
@@ -38,7 +38,7 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 ### Program Comittee
 
 - Ilkwon Byun (Kyushu University)
-<!- - Yufei Ding (University of California, San Diego) ->
+{% comment - Yufei Ding (University of California, San Diego) }
 - Poulami Das (University of Texas at Austin)
 - Akihito Soeda (National Institute of Informatics, Japan)
 - Gokul Subramanian Ravi (University of Michigan)
