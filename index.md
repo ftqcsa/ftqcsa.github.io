@@ -4,6 +4,7 @@ layout: page
 ---
 
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
+{:style="display: none;"}
 
 {% comment %}
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
