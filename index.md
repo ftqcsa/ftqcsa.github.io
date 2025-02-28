@@ -22,7 +22,7 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 - Date: June 22, 2025 in conjunction with [ISCA2025](https://iscaconf.org/isca2025/)
 - Venue: Tokyo, Japan
 
-## Call for Presentations
+## Call for Abstracts
 
 - To be announced.
 
