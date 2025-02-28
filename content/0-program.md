@@ -1,6 +1,7 @@
 ---
 title: Program
 nav: Program
+layout: page-full-width
 topics: Program, 2025
 ---
 
