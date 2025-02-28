@@ -62,8 +62,10 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 - To be confirmed.
 
+{% comment %}
 {% include toc.html %}
 
 ------
 
 {% include template/credits.html %}
+{% endcomment %}
