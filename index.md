@@ -39,22 +39,28 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 - Program Committee Chair Yasunari Suzuki, NTT, Japan
 - Program Committee Vice Chair: Shota Nagayama, Keio University/Mercari, Japan
 
-### Program Comittee
+### Program Committee
 
 - Ilkwon Byun (Kyushu University)
-{% comment %}
-- Yufei Ding (University of California, San Diego)
-{% endcomment %}
 - Poulami Das (University of Texas at Austin)
 - Akihito Soeda (National Institute of Informatics, Japan)
 - Gokul Subramanian Ravi (University of Michigan)
 - Swamit Tannu (University of Wisconsin-Madison)
 - Hayata Yamasaki (The University of Tokyo)
 
+{% comment %}
+- Ilkwon Byun (Kyushu University)
+- Yufei Ding (University of California, San Diego)
+- Poulami Das (University of Texas at Austin)
+- Akihito Soeda (National Institute of Informatics, Japan)
+- Gokul Subramanian Ravi (University of Michigan)
+- Swamit Tannu (University of Wisconsin-Madison)
+- Hayata Yamasaki (The University of Tokyo)
+{% endcomment %}
+
 ### Endorsed by:
 
 - To be confirmed.
-
 
 {% include toc.html %}
 
