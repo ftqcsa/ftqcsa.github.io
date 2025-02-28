@@ -1,8 +1,10 @@
 ---
 title: Program
 nav: Program
-layout: page-full-width
+layout: page
 topics: Program, 2025
 ---
+
+# Program
 
 To be determined.
