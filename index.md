@@ -9,6 +9,7 @@ layout: page
 {% comment %}
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 {% endcomment %}
+{% include figure.html img="ftqcsa2025.jpg" alt="FTQCSA2025" caption="The 1st FTQCSA workshop in Tokyo" width="75%" %}
 
 ## About FTQCSA
 
