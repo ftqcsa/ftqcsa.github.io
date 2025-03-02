@@ -6,9 +6,6 @@ layout: page
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
 {:style="display: none;"}
 
-{% comment %}
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-{% endcomment %}
 {% include figure.html img="ftqcsa2025.jpg" alt="FTQCSA2025" caption="The 1st FTQCSA workshop in Tokyo" width="75%" %}
 
 ## About FTQCSA
@@ -42,25 +39,19 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 ### Program Committee
 
 - Ilkwon Byun (Kyushu University)
-- Poulami Das (University of Texas at Austin)
-- Akihito Soeda (National Institute of Informatics, Japan)
-- Gokul Subramanian Ravi (University of Michigan)
-- Swamit Tannu (University of Wisconsin-Madison)
-- Hayata Yamasaki (The University of Tokyo)
-
-{% comment %}
-- Ilkwon Byun (Kyushu University)
 - Yufei Ding (University of California, San Diego)
 - Poulami Das (University of Texas at Austin)
 - Akihito Soeda (National Institute of Informatics, Japan)
 - Gokul Subramanian Ravi (University of Michigan)
 - Swamit Tannu (University of Wisconsin-Madison)
 - Hayata Yamasaki (The University of Tokyo)
-{% endcomment %}
 
 ### Endorsed by:
 
 - To be confirmed.
+
+### Contact
+- Email: ftqcsa-oc _at_ googlegroups.com
 
 {% comment %}
 {% include toc.html %}
