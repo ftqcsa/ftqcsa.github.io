@@ -7,6 +7,8 @@ topics: Call for abstract, 2025
 
 # Call for Abstracts &mdash; FTQCSA 2025
 
+The pdf version is [here](/assets/pdf/FTQCSA2025-CFA.pdf).
+
 ## Abstract
 FTQCSA 2024 is the workshop in conjunction with ISCA 2025 in Tokyo at the aim of constructing a community of researchers who are interested in system architecture of fault-tolerant quantum computers (FTQCs).
 
