@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-News: the site is open!
+__News: the site is open!__
 {:style="color: red"}
 
 
