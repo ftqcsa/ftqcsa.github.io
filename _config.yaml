@@ -6,6 +6,9 @@
 #
 #########
 
+gems:
+    - jekyll-redirect-from
+
 #######
 # SITE SETTINGS
 #
@@ -55,7 +58,6 @@ source-code: https://github.com/ftqcsa/ftqcsa.github.io
 #
 # set noindex to true if you do NOT want Google to index your site
 noindex: true 
-
 
 #######
 # BUILD SETTINGS [usually leave as is]
