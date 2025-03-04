@@ -13,7 +13,7 @@ The pdf version is [here](/assets/pdf/FTQCSA2025-CFA.pdf).
 FTQCSA 2024 is the workshop in conjunction with ISCA 2025 in Tokyo at the aim of constructing a community of researchers who are interested in system architecture of fault-tolerant quantum computers (FTQCs).
 
 ## Motivation
-Fault-tolerant quantum computing (FTQC) is a promising field that requires a multidisciplinary approach to achieve quantum advantage. To overcome the complex challenges ahead, sustained efforts and international collaboration are essential. The FTQCSA workshop aims to bring together experts from diverse disciplines to share their advancements, discuss system-level challenges, and collaborate on strategies to accelerate FTQC development, ultimately driving progress toward realizing quantum advantages.
+FTQC is a promising field that requires a multidisciplinary approach to achieve quantum advantage. To overcome the complex challenges ahead, sustained efforts and international collaboration are essential. The FTQCSA workshop aims to bring together experts from diverse disciplines to share their advancements, discuss system-level challenges, and collaborate on strategies to accelerate FTQC development, ultimately driving progress toward realizing quantum advantages.
 
 ## Scope
 Topics of interest of the FTQCSA workshop include, but are not limited to:
