@@ -26,6 +26,7 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 ## Registration
 
 - Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).
+- Note that presenters are also required to register.
 
 ## Committees
 
