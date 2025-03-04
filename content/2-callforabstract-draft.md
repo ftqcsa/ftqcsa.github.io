@@ -27,25 +27,6 @@ Topics of interest of the FTQCSA workshop include, but are not limited to:
 ## Workshop format
 The FTQCSA will feature a mix of invited talks, presentations, and posters selected from submissions to this call for participation. Abstracts should be submitted in PDF format (up to two pages) and include the title, authors, affiliations, and email address of the contact author. Submissions of works in progress and position papers are encouraged, and we also welcome previously published works. Preprints or published articles can be submitted in lieu of an abstract. As no formal proceedings are planned, submissions will not preclude publication at future conference venues.
 
-## Committees
-
-### Organizing members:
-
-- _Chair:_ [Teruo Tanimoto](https://teruo41.github.io/), Kyushu University, Japan
-- _Vice Chair:_ [Yosuke Ueno](https://yuteno.github.io/), RIKEN, Japan
-- _Program Committee Chair:_ [Yasunari Suzuki](https://researchmap.jp/yasunari_suzuki), NTT, Japan
-- _Program Committee Vice Chair:_ [Shota Nagayama](https://shota.io/), Keio University/Mercari, Japan
-
-### Program committee members:
-
-- [Ilkwon Byun](https://ilkwon-byun-personal.github.io/) (Kyushu University)
-- [Yufei Ding](https://cse.ucsd.edu/people/faculty-profiles/yufei-ding) (University of California, San Diego)
-- [Poulami Das](https://www.poulamidas.com/) (University of Texas at Austin)
-- [Akihito Soeda](https://researchmap.jp/akihito_soeda) (National Institute of Informatics, Japan)
-- [Gokul Subramanian Ravi](https://gsravi.engin.umich.edu/) (University of Michigan)
-- [Swamit Tannu](https://swamittannu.com/) (University of Wisconsin-Madison)
-- [Hayata Yamasaki](https://www.hayatayamasaki.com/) (The University of Tokyo)
-
 ## Important dates
 
 - _Abstract submissions:_ April 18 (Fri) AoE
