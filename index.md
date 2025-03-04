@@ -21,11 +21,11 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 ## Call for Abstracts
 
-- To be announced.
+- Please refer to [this page](/cfa/).
 
 ## Registration
 
-- To be announced.
+- Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).
 
 ## Committees
 
