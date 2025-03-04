@@ -1,5 +1,6 @@
 ---
 title: Call for Abstracts
+permalink: /cfa/
 nav: CFA
 layout: page
 topics: Program, 2025
