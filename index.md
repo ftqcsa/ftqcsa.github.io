@@ -3,6 +3,10 @@ title: Home
 layout: page
 ---
 
+News: the site is open!
+{:style="color: red"}
+
+
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
 {:style="display: none;"}
 
