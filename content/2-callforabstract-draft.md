@@ -25,10 +25,14 @@ Topics of interest of the FTQCSA workshop include, but are not limited to:
 - Quantum computer design for emerging error correcting codes (e.g., Quantum LDPC codes)
 
 ## Workshop format
-The FTQCSA will feature a mix of invited talks, presentations, and posters selected from submissions to this call for participation. Abstracts should be submitted in PDF format (up to two pages) and include the title, authors, affiliations, and email address of the contact author. Submissions of works in progress and position papers are encouraged, and we also welcome previously published works. Preprints or published articles can be submitted in lieu of an abstract. As no formal proceedings are planned, submissions will not preclude publication at future conference venues.
+The FTQCSA2025 will feature a mix of invited talks, and presentations/posters selected from submissions to this call for participation. Authors can submit an abstract, a preprint, or a published paper. 
+Submissions of works in progress and position papers are encouraged, and we also welcome previously published works. Preprints or published articles can be submitted in lieu of an abstract. As no formal proceedings are planned, submissions will not preclude publication at future conference venues.
 
+The submission options are as follows:
+- _Two-page abstract:_ An abstract should be prepared in PDF format (fontsize: 9 pt, US letter size: 8.5 in &times; 11 in, up to two pages including reference). The abstract should include the title, authors, affiliations, and email address of the contact author. When the submission is accepted, the abstract will be shared with only the workshop attendees.
+-  _Published Paper:_ In the case of the submission with a preprint or a published paper, please attach the PDF file of the paper. The workshop will not share the article with attendees.
+ 
 ## Important dates
-
 - _Abstract submissions:_ April 18 (Fri) AoE
 - _Author notification:_ May 9 (Fri)
 - _Workshop Date:_ June 22 (Sun)
