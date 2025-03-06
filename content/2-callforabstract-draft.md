@@ -10,10 +10,10 @@ topics: Call for abstract, 2025
 The pdf version is [here](/assets/pdf/FTQCSA2025-CFA.pdf).
 
 ## Abstract
-Fault-tolerant quantum computing System Architecture (FTQCSA 2025) is the workshop in conjunction with ISCA 2025 in Tokyo at the aim of constructing a community of researchers who are interested in system architecture of fault-tolerant quantum computers (FTQCs).
+Fault-tolerant quantum computing System Architecture (FTQCSA 2025) is a workshop in conjunction with ISCA 2025 in Tokyo at the aim of constructing a community of researchers who are interested in system architecture of fault-tolerant quantum computers (FTQCs).
 
 ## Motivation
-FTQC is a promising field that requires a multidisciplinary approach to achieve quantum advantage. To overcome the complex challenges ahead, sustained efforts and international collaboration are essential. The FTQCSA workshop aims to bring together experts from diverse disciplines to share their advancements, discuss system-level challenges, and collaborate on strategies to accelerate FTQC development, ultimately driving progress toward realizing quantum advantages.
+Fault-tolerant quantum computing (FTQC) is a promising field that requires expertise across multiple disciplines to achieve quantum advantage. To overcome the complex challenges ahead, sustained efforts and international collaboration are essential. The FTQCSA workshop aims to bring together experts from diverse disciplines to share their advancements, discuss system-level challenges, and collaborate on strategies to accelerate FTQC development, ultimately driving progress toward realizing quantum advantages.
 
 ## Scope
 Topics of interest of the FTQCSA workshop include, but are not limited to:
@@ -22,7 +22,7 @@ Topics of interest of the FTQCSA workshop include, but are not limited to:
 - Realtime quantum error decoding system
 - Resource reductions to demonstrate quantum advantage
 - Compilation techniques and application performance evaluation of distributed quantum computing
-- Quantum computer design for emerging error correcting codes (e.g., Quantum LDPC codes)
+- Quantum computer design based on emerging error correction codes (e.g., Quantum LDPC codes)
 
 ## Workshop format
 The FTQCSA2025 will feature a mix of invited talks, and presentations/posters selected from submissions to this call for participation. Authors can submit an abstract, a preprint, or a published paper. 
