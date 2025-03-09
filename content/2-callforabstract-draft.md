@@ -38,7 +38,7 @@ The submission options are as follows:
 - _Workshop Date:_ June 22 (Sun)
 
 ## Submission
-Please submit your abstract via [https://hogehoge.com].
+Please submit your abstract [here](/submit/).
 
 ## Contact
 Please contact us via _ftqcsa-oc \_at\_ googlegroups.com_.
