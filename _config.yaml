@@ -57,7 +57,7 @@ source-code: https://github.com/ftqcsa/ftqcsa.github.io
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+#noindex: true 
 
 #######
 # BUILD SETTINGS [usually leave as is]
