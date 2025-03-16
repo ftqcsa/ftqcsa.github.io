@@ -51,9 +51,11 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 - Swamit Tannu (University of Wisconsin-Madison)
 - Hayata Yamasaki (The University of Tokyo)
 
+{% comment %}
 ### Endorsed by:
 
 - To be confirmed.
+{% endcomment %}
 
 ### Contact
 - Email: ftqcsa-oc _at_ googlegroups.com
