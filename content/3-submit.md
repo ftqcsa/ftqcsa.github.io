@@ -1,4 +1,4 @@
 ---
 permalink: /submit/
-redirect_to: https://ftqcsa.github.io/tbd/
+redirect_to: https://ftqcsa2025.hotcrp.com/
 ---
