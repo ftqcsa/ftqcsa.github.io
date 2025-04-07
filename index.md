@@ -38,7 +38,7 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 - Chair: Teruo Tanimoto, Kyushu University, Japan
 - Vice Chair: Yosuke Ueno, RIKEN, Japan
-- Program Committee Chair: Yasunari Suzuki, NTT, Japan
+- Program Committee Chair: Yasunari Suzuki, NTT/RIKEN, Japan
 - Program Committee Vice Chair: Shota Nagayama, Keio University/Mercari, Japan
 
 ### Program Committee
