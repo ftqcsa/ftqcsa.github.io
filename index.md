@@ -10,6 +10,8 @@ __News: the site is open!__
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
 {:style="display: none;"}
 
+__News: The author notification will be on May 12 (Mon). Sorry for the delay.__
+
 {% include figure.html img="ftqcsa2025.jpg" alt="FTQCSA2025" caption="The 1st FTQCSA workshop in Tokyo" width="75%" %}
 
 ## About FTQCSA
