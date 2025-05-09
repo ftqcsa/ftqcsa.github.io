@@ -35,7 +35,7 @@ The submission options are as follows:
  
 ## Important dates
 - _Abstract submissions:_ April 18 (Fri) AoE
-- _Author notification:_ May 9 (Fri)
+- _Author notification:_ __May 12 (May)__
 - _Workshop Date:_ June 22 (Sun)
 
 ## Submission
