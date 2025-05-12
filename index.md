@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-__News: The author notification has been sent.__
+__News: The author notification has been sent.__  
 __News: We will call for posters soon!__
 {:style="color: red"}
 
