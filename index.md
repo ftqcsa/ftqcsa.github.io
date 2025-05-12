@@ -3,7 +3,8 @@ title: Home
 layout: page
 ---
 
-__News: The author notification will be on May 12 (Mon). Sorry for the delay.__
+__News: The author notification has been sent.__
+__News: We will call for posters soon!__
 {:style="color: red"}
 
 
@@ -23,14 +24,42 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 - Date: June 22, 2025 in conjunction with [ISCA2025](https://iscaconf.org/isca2025/)
 - Venue: Tokyo, Japan
 
-## Call for Abstracts
+## Call for Abstracts (closed)
 
 - Please refer to [this page](/cfa/).
+
+## Call for Posters 
+
+__We will call for posters soon!__
+{:style="color: red"}
+
+## Presentations
+
+### Invited talks
+- VAN METER, Rodney D.  
+  Professor, Faculty of Environment and Information Studies
+  Graduate School of Media and Governance
+- TBD
+
+### Accepted talks
+- Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino  
+  __"Square-Root Time Plan for Defect-Free Atom Array Reconfiguration with Lattice-shaped Mobile Tweezers"__
+- Juichi Haruna and Keisuke Fujii  
+  __"Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code"__
+- Yutaka Hirano and Keisuke Fujii  
+  __"Locality-aware Pauli-based computation for local magic state preparation"__
+- Kohdai Kuroiwa and Yuya O. Nakagawa  
+  __"Averaging gate approximation error and performance of Unitary Coupled Cluster ansatz in Pre-FTQC Era"__
+- Yugo Takada and Hayata Yamasaki  
+  __"Doubly-polylog-time-overhead fault-tolerant quantum computation by a polylog-time parallel minimum-weight perfect matching decoder"__
+- Joshua Viszlai, Margaret R. Martonosi, and Frederic T. Chong  
+  __"Decoding the Performance Gap: Propagation-Aware Compilation of Stabilizer Circuits"__
 
 ## Registration
 
 - Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).
 - Note that presenters are also required to register.
+- Early registration is available until __May 22__.
 
 ## Committees
 
