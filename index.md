@@ -35,7 +35,7 @@ __We will call for posters soon!__
 
 ## Presentations
 
-### Invited talks
+### Invited speakers
 - VAN METER, Rodney D.  
   Professor, Faculty of Environment and Information Studies
   Graduate School of Media and Governance
