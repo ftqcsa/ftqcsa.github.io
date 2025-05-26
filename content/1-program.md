@@ -12,8 +12,11 @@ topics: Program, 2025
   }
   table, td {
     border: none;
+  }
+  td {
+    padding: 3px;
     vertical-align: top;
-  }  
+  }
 </style>
 
 # FTQCSA2025 program
