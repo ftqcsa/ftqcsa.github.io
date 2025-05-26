@@ -14,7 +14,7 @@ topics: Program, 2025
     border: none;
   }
   td {
-    padding: 3px;
+    padding: 5px;
     vertical-align: top;
   }
 </style>
