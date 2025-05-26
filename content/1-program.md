@@ -12,7 +12,7 @@ topics: Program, 2025
   }
   table, td {
     border: none;
-    valign: top;
+    vertical-align: top;
   }  
 </style>
 
