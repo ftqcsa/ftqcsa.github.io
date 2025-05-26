@@ -44,17 +44,17 @@ __We will call for posters soon!__
 
 ### Accepted talks
 
-- Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino  
+- Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino,  
   __"Square-Root Time Plan for Defect-Free Atom Array Reconfiguration with Lattice-shaped Mobile Tweezers"__
-- Juichi Haruna and Keisuke Fujii  
+- Juichi Haruna and Keisuke Fujii,  
   __"Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code"__
-- Yutaka Hirano and Keisuke Fujii  
+- Yutaka Hirano and Keisuke Fujii,  
   __"Locality-aware Pauli-based computation for local magic state preparation"__
-- Kohdai Kuroiwa and Yuya O. Nakagawa  
+- Kohdai Kuroiwa and Yuya O. Nakagawa,  
   __"Averaging gate approximation error and performance of Unitary Coupled Cluster ansatz in Pre-FTQC Era"__
-- Yugo Takada and Hayata Yamasaki  
+- Yugo Takada and Hayata Yamasaki,  
   __"Doubly-polylog-time-overhead fault-tolerant quantum computation by a polylog-time parallel minimum-weight perfect matching decoder"__
-- Joshua Viszlai, Margaret R. Martonosi, and Frederic T. Chong  
+- Joshua Viszlai, Margaret R. Martonosi, and Frederic T. Chong,  
   __"Decoding the Performance Gap: Propagation-Aware Compilation of Stabilizer Circuits"__
 
 ### Posters
