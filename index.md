@@ -36,12 +36,14 @@ __We will call for posters soon!__
 ## Presentations
 
 ### Invited speakers
+
 - VAN METER, Rodney D.  
-  Professor, Faculty of Environment and Information Studies
-  Graduate School of Media and Governance
-- TBD
+  Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance
+- Yoshiyasu Doi  
+  Senior Research Director, Quantum Laboratory, Fujitsu Research, Fujitsu Limited
 
 ### Accepted talks
+
 - Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino  
   __"Square-Root Time Plan for Defect-Free Atom Array Reconfiguration with Lattice-shaped Mobile Tweezers"__
 - Juichi Haruna and Keisuke Fujii  
@@ -54,6 +56,10 @@ __We will call for posters soon!__
   __"Doubly-polylog-time-overhead fault-tolerant quantum computation by a polylog-time parallel minimum-weight perfect matching decoder"__
 - Joshua Viszlai, Margaret R. Martonosi, and Frederic T. Chong  
   __"Decoding the Performance Gap: Propagation-Aware Compilation of Stabilizer Circuits"__
+
+### Posters
+
+- TBD
 
 ## Registration
 
