@@ -30,7 +30,8 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 ## Call for Posters 
 
-__We will call for posters soon!__
+__Please fill and submit the form [here](https://forms.office.com/r/XbFXpipU0g).__  
+The deadline is tentatively May 29th.
 {:style="color: red"}
 
 ## Presentations
