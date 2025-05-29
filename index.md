@@ -60,7 +60,16 @@ The deadline is tentatively May 28th.
 
 ### Posters
 
-- TBD
+- *Yutaka Hirano, Keisuke Fujii,  
+  _"Locality-aware Pauli-based computation for local magic state preparation"_
+- *Tomohiro Itogawa, Yugo Takada, Yutaka Hirano, Yutaro Akahoshi, Keisuke Fujii,  
+  _"Efficient Magic State Distillation by Zero-level Distillation"_
+- Hiroaki Murakami, *Kenzo Makino, Yasunori Lee, Keita Kanno, Tomonori Fukuta,  
+  _"Resource Estimation for Matrix Inversion via QSVT with the Clifford+T Gate Set"_
+- *Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii,  
+  _"Clifford gates with logical transversality for self-dual CSS codes"_
+- *Joshua Viszlai, Margaret R. Martonosi, Frederic T. Chong,  
+  _"Decoding the Performance Gap: Propagation-Aware Compilation of Stabilizer Circuits"_
 
 ## Registration
 
