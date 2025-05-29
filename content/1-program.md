@@ -40,7 +40,7 @@ topics: Program, 2025
 | 14:00 | Poster session |
 | 14:45 | Closing remarks |
 
-## Poster presentations
+### Poster presentations
 
 - *Yutaka Hirano, Keisuke Fujii,  
   _"Locality-aware Pauli-based computation for local magic state preparation"_
