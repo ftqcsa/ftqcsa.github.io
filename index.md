@@ -37,9 +37,9 @@ The deadline is tentatively May 28th.
 
 ### Invited speakers
 
-- VAN METER, Rodney D.  
+- __VAN METER, Rodney D.__  
   Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance
-- Yoshiyasu Doi  
+- __Yoshiyasu Doi__  
   Senior Research Director, Quantum Laboratory, Fujitsu Research, Fujitsu Limited
 
 ### Accepted talks
