@@ -47,7 +47,7 @@ The deadline is tentatively May 28th.
 
 - Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino,  
   __"Square-Root Time Plan for Defect-Free Atom Array Reconfiguration with Lattice-shaped Mobile Tweezers"__
-- Juichi Haruna and Keisuke Fujii,  
+- Junichi Haruna and Keisuke Fujii,  
   __"Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code"__
 - Yutaka Hirano and Keisuke Fujii,  
   __"Locality-aware Pauli-based computation for local magic state preparation"__
