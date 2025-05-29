@@ -74,7 +74,7 @@ The deadline is tentatively May 28th.
 
 - Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).
 - Note that presenters are also required to register.
-- Early registration is available until __May 22__.
+- ~~Early registration is available until __May 22__.~~
 
 ## Committees
 
