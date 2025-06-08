@@ -18,7 +18,7 @@ topics: Program, 2025
     vertical-align: top;
   }
   tr td:nth-of-type(1) {
-    text-aligh: center;
+    text-align: center;
   }
 </style>
 
