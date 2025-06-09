@@ -25,16 +25,15 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 ## Call for Posters 
 
-__Please fill and submit the form [here](https://forms.office.com/r/XbFXpipU0g).__  
-The deadline is tentatively May 28th.
-{:style="color: red"}
+- ~~__Please fill and submit the form [here](https://forms.office.com/r/XbFXpipU0g).__~~  
+  ~~The deadline is tentatively May 28th.~~
 
 ## Presentations
 
 ### Invited speakers
 
 - __VAN METER, Rodney D.__  
-  Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance
+  Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance, Keio University
 - __Yoshiyasu Doi__  
   Senior Research Director, Quantum Laboratory, Fujitsu Research, Fujitsu Limited
 
@@ -68,7 +67,7 @@ The deadline is tentatively May 28th.
 
 ## Registration
 
-- Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).
+- ~~Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).~~
 - Note that presenters are also required to register.
 - ~~Early registration is available until __May 22__.~~
 
