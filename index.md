@@ -3,10 +3,6 @@ title: Home
 layout: page
 ---
 
-__News: We will call for posters soon!__
-{:style="color: red"}
-
-
 # Workshop on Fault-Tolerant Quantum Computer System Architecture
 {:style="display: none;"}
 
