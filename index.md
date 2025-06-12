@@ -17,7 +17,14 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 ## Date and Venue
 
 - Date: June 22, 2025 in conjunction with [ISCA2025](https://iscaconf.org/isca2025/)
-- Venue: Tokyo, Japan
+- Venue: Komatsu Hall (B1F), Research Innovation Center (Bld. 121) , Waseda University  
+    513 Wasedatsurumaki-cho, Shinjuku-ku, Tokyo, 162-0041, JAPAN
+
+{% raw %}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.7614892664833!2d139.7188392773881!3d35.707486528528555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d536ca055f1%3A0x734f79646c9d5888!2z5pep56iy55Sw5aSn5a2m44Oq44K144O844OB44Kk44OO44OZ44O844K344On44Oz44K744Oz44K_44O877yIMTIx5Y-36aSo77yJ!5e0!3m2!1sja!2sjp!4v1749711656922!5m2!1sen!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{% endraw %}
 
 ## Call for Abstracts (closed)
 
@@ -70,6 +77,10 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 - ~~Please register to participate from the [ISCA website](https://iscaconf.org/isca2025/).~~
 - Note that presenters are also required to register.
 - ~~Early registration is available until __May 22__.~~
+
+## Detailed program
+
+- Please refer to [this page](/program/).
 
 ## Committees
 
