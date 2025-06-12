@@ -27,9 +27,9 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 {% endraw %}
 
-## Call for Abstracts (closed)
+## Call for Abstracts
 
-- Please refer to [this page](/cfa/).
+- ~~Please refer to [this page](/cfa/).~~
 
 ## Call for Posters 
 
