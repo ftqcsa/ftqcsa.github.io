@@ -17,8 +17,9 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 ## Date and Venue
 
 - Date: June 22, 2025 in conjunction with [ISCA2025](https://iscaconf.org/isca2025/)
-- Venue: Komatsu Hall (B1F), Research Innovation Center (Bld. 121) , Waseda University  
-    513 Wasedatsurumaki-cho, Shinjuku-ku, Tokyo, 162-0041, JAPAN
+- Venue:
+    Komatsu Hall (B1F), Research Innovation Center (Bld. 121) , Waseda University  
+    (513 Wasedatsurumaki-cho, Shinjuku-ku, Tokyo, 162-0041, JAPAN)
 
 {% raw %}
 
