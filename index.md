@@ -81,7 +81,7 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 ## Detailed program
 
-- Please refer to [this page](/program/).
+- Please refer to [this page](/prog/).
 
 ## Committees
 
