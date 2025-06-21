@@ -40,8 +40,8 @@ The journey toward harnessing the power of FTQC has just begun, and it is essent
 
 ### Invited speakers
 
-- __VAN METER, Rodney D.__  
-  Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance, Keio University
+- ~~__VAN METER, Rodney D.__  
+  Professor, Faculty of Environment and Information Studies, Graduate School of Media and Governance, Keio University~~
 - __Yoshiyasu Doi__  
   Senior Research Director, Quantum Laboratory, Fujitsu Research, Fujitsu Limited
 
