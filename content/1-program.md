@@ -37,8 +37,8 @@ topics: Program, 2025
 | 10:30 | __Talk 4:__ Koki Aoyama, Masao Okita, Takafumi Tomita, and Fumihiko Ino,<br>_"Square-Root Time Plan for Defect-Free Atom Array Reconfiguration with Lattice-shaped Mobile Tweezers"_ |
 | 11:00 | __Talk 5:__ Yutaka Hirano and Keisuke Fujii,<br>_"Locality-aware Pauli-based computation for local magic state preparation"_ |
 | 11:30 | __Talk 6:__ Kohdai Kuroiwa and Yuya O. Nakagawa,<br>_"Averaging gate approximation error and performance of Unitary Coupled Cluster ansatz in Pre-FTQC Era"_ |
-| 12:00 | Lunch<br>(Lunch box will be served, and the conference room is available during the lunch break.) |
-| 13:00 | __Invited talk 1:__ Rodney Van Meter,<br>_TBD_ |
+| 12:00 | Lunch<br>(Lunch box will be served, and ~~the conference room~~ the lobby in front of the hall is available during the lunch break.) |
+| 13:00 | ~~__Invited talk 1:__ Rodney Van Meter,<br>_TBD_~~ _canceled_ |
 | 13:30 | __Invited talk 2:__ Yoshiyasu Doi,<br>_"Unresolved hardware Challenges in Superconducting FTQC Based on the development experience of 256-Qubit system"_ |
 | 14:00 | __Poster session__ |
 | 14:45 | __Closing remarks__ |
