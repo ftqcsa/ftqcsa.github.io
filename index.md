@@ -8,6 +8,15 @@ layout: page
 
 {% include figure.html img="ftqcsa2025.jpg" alt="FTQCSA2025" caption="The 1st FTQCSA workshop in Tokyo" width="75%" %}
 
+## Thank you very much for attending and fruitful discussions!
+
+Thanks to everyone's contribution, we were able to have a meaningful discussion with many participants.
+I am confident that interdisciplinary discussions will bear fruit in the realization of FTQC.
+We plan to provide further opportunities to exchange research results in the future.
+We thank everyone for their cooperation.
+
+{% include figure.html img="FTQCSA2025-groupphoto-small.jpg" alt="FTQCSA2025" caption="Thank you for your attendance :)" width="90%" %}
+
 ## About FTQCSA
 
 The pursuit of Fault-Tolerant Quantum Computer (FTQC) represents a promising direction in enhancing computation capability, with far-reaching implications for various fields. However, the research and development of FTQC necessitate a multidisciplinary approach, drawing on expertise from diverse areas, including quantum coding theory, quantum processing unit design, electronics engineering for quantum-classical interfaces, quantum networks, computer architecture, compilation techniques, and FTQC integration with high-performance computing. As we embark on the path to achieving quantum advantage through FTQC, it is clear that sustained efforts are required to scale up FTQC systems while reducing the resources needed to operate them.
