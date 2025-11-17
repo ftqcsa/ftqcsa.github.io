@@ -1,7 +1,6 @@
 ---
 title: Program
 permalink: /2025/prog/
-nav: Program
 layout: page
 topics: Program, 2025
 ---

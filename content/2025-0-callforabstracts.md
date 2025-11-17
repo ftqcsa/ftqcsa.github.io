@@ -1,7 +1,6 @@
 ---
 title: Call for Abstracts
 permalink: /2025/cfa/
-nav: CFA
 layout: page
 topics: Call for abstract, 2025
 ---
